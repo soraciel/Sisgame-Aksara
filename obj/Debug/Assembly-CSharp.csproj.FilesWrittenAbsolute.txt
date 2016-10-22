@@ -1,0 +1,34 @@
+/Users/sani/New Unity Project 2/Temp/bin/Debug/UnityEngine.dll
+/Users/sani/New Unity Project 2/Temp/bin/Debug/UnityEditor.dll
+/Users/sani/New Unity Project 2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sani/New Unity Project 2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sani/New Unity Project 2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/sani/New Unity Project 2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sani/New Unity Project 2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sani/New Unity Project 2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/sani/New Unity Project 2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sani/New Unity Project 2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sani/New Unity Project 2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sani/New Unity Project 2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/sani/New Unity Project 2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/sani/New Unity Project 2/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/sani/New Unity Project 2/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/sani/New Unity Project 2/obj/Debug/Assembly-CSharp.dll
+/Users/sani/New Unity Project 2/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/obj/Debug/Assembly-CSharp.dll
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/UnityEngine.dll
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/UnityEditor.dll
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/sani/Kuliah/Sem7/Sistem Game/New Unity Project 2/Temp/bin/Debug/Assembly-CSharp.dll
